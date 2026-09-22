@@ -1,4 +1,3 @@
-[credit_card_analytics_readme.md](https://github.com/user-attachments/files/32529816/credit_card_analytics_readme.md)
 # PowerBI Project: Credit Card Financial Dashboard
 ## Project Overview
 
